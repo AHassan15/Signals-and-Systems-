@@ -1,4 +1,0 @@
-EXAMPLE FRIDAY, 03/09/2018 
-- git Tutorial, via thenewboston
-
-This is to show that the file has been modified! 
